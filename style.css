@@ -1,1 +1,9 @@
-body{}
+#score {color:#5a5aa9; }
+.jumbotron {color: #27b228;
+  font-size: 100px;
+  text-align: center;}
+#jeopardy{width: 80%; margin: auto;}
+#_score {padding-left: 15px;
+        font-size: 30px; 
+      }
+
