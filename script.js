@@ -31,9 +31,9 @@ function showQuestion(topic, amount) {
     question = basic[index].question
     answer = basic[index].answer
   }
-  else if (topic == 'interests') {
-    question = interests[index].question
-    answer = interests[index].answer
+  else if (topic == 'hobbies') {
+    question = hobbies[index].question
+    answer = hobbies[index].answer
   }
   else if (topic == 'travel') {
     question = travel[index].question
